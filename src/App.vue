@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <h1>aaaaaaaaaaaa</h1>
     <!--路由渲染-->
     <router-view/>
   </div>
@@ -8,7 +9,7 @@
 <script>
 
 export default ({
-  name:'App'
+  name: 'App'
 })
 </script>
 
